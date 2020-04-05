@@ -1,6 +1,6 @@
 #! /bin/bash
 
-word=b
+word=c
 
 if [ $word = "a" ]
 then
